@@ -1,6 +1,10 @@
 @import '../src/styles/layout/grid';
 @import '../src/styles/pages/form';
-
+@import '../src/styles/components/header';
+@import '../src/styles/components/input-field';
+@import '../src/styles/components/button';
+@import '../src/styles/components/labels';
+@import '../src/styles/components/table';
 body{
   margin: 0;
   background-color: #fffa65;
